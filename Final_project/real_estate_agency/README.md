@@ -1,13 +1,13 @@
 # Проект 3. Дипломный проект
 
 ## Оглавление
-[1. Описание проекта](https://github.com/PavelLavr/sf_data_science/blob/main/project_2/README.md#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)
+[1. Описание проекта](https://github.com/PavelLavr/Final_project/blob/main/Final_project/real_estate_agency/README.md#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
 
-[2. Какой кейс решаем?](https://github.com/PavelLavr/sf_data_science/blob/main/project_2/README.md#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)
+[2. Какой кейс решаем?](https://github.com/PavelLavr/Final_project/blob/main/Final_project/real_estate_agency/README.md#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC)
 
-[3. Краткая информация о данных](https://github.com/PavelLavr/sf_data_science/blob/main/project_2/README.md#%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
+[3. Краткая информация о данных](https://github.com/PavelLavr/Final_project/blob/main/Final_project/real_estate_agency/README.md#%D0%BA%D1%80%D0%B0%D1%82%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F-%D0%BE-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
 
-[4. Результат](https://github.com/PavelLavr/sf_data_science/blob/main/project_2/README.md#4-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82)
+[4. Результат](https://github.com/PavelLavr/Final_project/blob/main/Final_project/real_estate_agency/README.md#4-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82)
 
 
 ### Описание проекта
@@ -22,25 +22,35 @@
 конкурентов по скорости и качеству совершения сделок.
 
 
- :arrow_up:[К оглавлению](https://github.com/PavelLavr/sf_data_science/blob/main/project_2/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)      
+ :arrow_up:[К оглавлению](https://github.com/PavelLavr/Final_project/blob/main/Final_project/real_estate_agency/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)      
 
 
 ### Какой кейс решаем?
 
 Проект состоит из пяти частей:
 1 Знакомство с данными
+
 2 Предварительный анализ данных
+
 3 Предобработка данных
+
 4 Поиск подходящей модели
+
 5 Подбор гиперпараметров
+
 6 сериализация модели
 
 Я разделил проект на 3 jupiter ноутбука
-1 предобработка данных ()  
-2 Поиск лучшей модели ()
-3 Готовая программа ()  
+
+1 [предобработка данных](https://github.com/PavelLavr/Final_project/blob/main/Final_project/real_estate_agency/Data_conversion.ipynb)  
+
+2 [Поиск лучшей модели](https://github.com/PavelLavr/Final_project/blob/main/Final_project/real_estate_agency/Models.ipynb)
+
+3 [Готовая программа](https://github.com/PavelLavr/Final_project/blob/main/Final_project/real_estate_agency/Redy_Program.ipynb)  
+
+Сериализованые модель и пайплайн, а так же иходный датасет можно найти по [ссылке](https://drive.google.com/file/d/1RC4m5Lb5LkhPonBWwcyfTNQMzIom0-xi/view?usp=drive_link)
        
-:arrow_up:[К оглавлению](https://github.com/PavelLavr/sf_data_science/blob/main/project_2/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)      
+:arrow_up:[К оглавлению](https://github.com/PavelLavr/Final_project/blob/main/Final_project/real_estate_agency/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)      
 
 
 ### Краткая информация о данных
@@ -51,5 +61,5 @@
 ## 4. Результат
 Проект завершён, разработана программа для предсказания цен на объекты недвижимости.
 
-Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/PavelLavr/sf_data_science/commit/067a0ba411570277e4d196862d1bdba6ebfed84b#diff-c6417645bde1f419434424b363e9614ba0bcb8a88282f4bcd55b824a4d4c439a).                
-:arrow_up:[К оглавлению](https://github.com/PavelLavr/sf_data_science/blob/main/project_2/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)         
+Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/PavelLavr/Final_project/blob/main/Final_project/requirements.txt).                
+:arrow_up:[К оглавлению](https://github.com/PavelLavr/Final_project/blob/main/Final_project/real_estate_agency/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)         
